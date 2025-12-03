@@ -13,8 +13,8 @@
 - 依赖包：见`requirements.txt`
 
 ## 使用方法
-# 方法1：双击 run.py
-# 方法2：命令行运行
+方法1：双击 run.py
+方法2：命令行运行
 python run.py
 
 ## 注
